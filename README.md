@@ -1,1 +1,1 @@
-# WellNess-Journal
+# Wellness-Journal
