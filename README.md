@@ -1,5 +1,3 @@
-# Wellness-Journal
-
 <h1>Wellness Journal</h1>
 
 <p> 
